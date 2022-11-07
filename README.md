@@ -19,5 +19,5 @@ you can run by:
 3-must ctrate database by same name in .env then run :
 php artisan migrate
 
-this is a educational project i with you enjoy
+this is a educational project i wish you enjoy
 
